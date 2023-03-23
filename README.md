@@ -1,12 +1,13 @@
 # MouseLockBox
 
-The deposit contains 3D printable STL files for the mouse lock boxes, which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
+The deposit contains 3D printable STL files for the Mouse Lock Boxes, which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
 
-Background: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called lock boxes, for mice and investigated their problem-solving strategies. Besides this, the impact of the lock box enrichment on the affective state of the mice was investigated.
+Background: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called Lock Boxes (LB), for mice and investigated their problem-solving strategies. Besides this, the impact of the lock box enrichment on the affective state of the mice was investigated.
 
-Lock box sets: Two lock box sets were designed, each consisting of four single mechanism (1-step) lock boxes and a combined mechanism (4-step) lock box. For the latter, a sequence of four locks blocking each other had to be removed in the correct order. The lock boxes were baited with a food reward to motivate the animals to open them.
+LB sets: Two LB sets were designed, each consisting of four single mechanism (1-step) LB and a combined mechanism (4-step) LB. For the latter, a sequence of four locks blocking each other had to be removed in the correct order. The LB were baited with a food reward to motivate the animals to open them.
+In the construction manual, the STL files for each LB are listed and construction plans are provided. The STL files can be found in the file titled "LB_sets.zip".
 
-Printing: We used an Ultimaker 3 Extended and an Ultimaker S3, 0.4 mm nozzles, and PLA of different colors as material. The gcode was generated with Cura_SteamEngine 4.4.0. Since the mice may gnaw on the Lock Boxes, it is advisable to choose a higher value for the thickness of walls and top, e.g., 1.5 mm. For most elements, the normal profile (0.15 mm) can be used; for small elements such as the seals, the fine profile is beneficial.
+Printing: We used an Ultimaker 3 Extended and an Ultimaker S3, 0.4 mm nozzles, and PLA of different colors as material. The gcode was generated with Cura_SteamEngine 4.4.0. Since the mice may gnaw on the LB, it is advisable to choose a higher value for the thickness of walls and top, e.g., 1.5 mm. For most elements, the normal profile (0.15 mm) can be used; for small elements such as the seals, the fine profile is beneficial.
 
 Wall Thickness: 1 mm
 Wall Line Count: 10 mm
