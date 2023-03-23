@@ -1,5 +1,5 @@
 # MouseLockBox
-*by Katharina Hohlbaum, Niek Andresen, Marc N. Boon, Pia Kahnau, Paul Mieske, Henning Sprekeler, Olaf Hellwich, Christa Thöne-Reineke, and Lars Lewejohann*
+*by Katharina Hohlbaum, Niek Andresen, Marcus N. Boon, Pia Kahnau, Paul Mieske, Henning Sprekeler, Olaf Hellwich, Christa Thöne-Reineke, and Lars Lewejohann*
 
 The deposit contains 3D printable STL files for the Mouse Lock Boxes, which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
 
