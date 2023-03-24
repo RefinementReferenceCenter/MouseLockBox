@@ -17,7 +17,7 @@ In the construction manual *("Instruction_Manual_Lock_Boxes.pdf")*, the STL file
 
 **Printing**: We used an Ultimaker 3 Extended and an Ultimaker S3, 0.4 mm nozzles, and PLA of different colors as material. The gcode was generated with Cura_SteamEngine 4.4.0. Since the mice may gnaw on the LB, it is advisable to choose a higher value for the thickness of walls and top, e.g., 1.5 mm. For most elements, the normal profile (0.15 mm) can be used; for small elements such as the seals, the fine profile is beneficial.  
 - Wall Thickness: 1 mm
-- Wall Line Count: 10 mm
+- Wall Line Count: 10
 - Top/Bottom Thickness: 1 mm
 - Top Layers: 10 
 - Bottom Layers: 3
