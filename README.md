@@ -7,9 +7,9 @@
 [^4]: Modeling of Cognitive Processes, Technische Universität Berlin, Berlin, Germany
 [^5]: Institute of Animal Welfare, Animal Behavior, and Laboratory Animal Science, Department of Veterinary Medicine, Freie Universität Berlin, Berlin, Germany
 
-The deposit contains 3D printable STL files for the Mouse Lock Boxes, which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
+The deposit contains 3D printable STL files for the Lock Boxes (LB), which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
 
-**Background**: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called Lock Boxes (LB), for mice and investigated their problem-solving strategies. Besides this, the impact of the lock box enrichment on the affective state of the mice was investigated.
+**Background**: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called LB, for mice and investigated their problem-solving strategies. Besides this, the impact of the lock box enrichment on the affective state of the mice was investigated.
 
 **LB sets**: Two LB sets were designed, each consisting of four single mechanism (1-step) LB and a combined mechanism (4-step) LB. For the latter, a sequence of four locks blocking each other had to be removed in the correct order. The LB were baited with a food reward to motivate the animals to open them.  
 In the construction manual (Instruction_Manual_Lock_Boxes.pdf), the STL files for each LB are listed and construction plans are provided. The STL files can be found in the file titled "LB_sets.zip".
