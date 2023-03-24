@@ -1,5 +1,11 @@
 # MouseLockBox
-*by Katharina Hohlbaum, Niek Andresen, Marcus N. Boon, Pia Kahnau, Paul Mieske, Henning Sprekeler, Olaf Hellwich, Christa Thöne-Reineke, and Lars Lewejohann*
+*by Katharina Hohlbaum[^1] [^2], Niek Andresen[^2] [^3], Marcus N. Boon[^2] [^4], Pia Kahnau[^1], Paul Mieske[^1] [^2] [^5], Henning Sprekeler[^2] [^4], Olaf Hellwich[^2] [^3], Christa Thöne-Reineke[^2] [^5], and Lars Lewejohann[^1] [^2] [^5]*
+
+[^1]: German Federal Institute for Risk Assessment (BfR), German Centre for the Protection of Laboratory Animals (Bf3R), Berlin, Germany
+[^2]: Science of Intelligence, Research Cluster of Excellence, Marchstr. 23, 10587 Berlin, https://www.scienceofintelligence.de
+[^3]: Department of Computer Vision & Remote Sensing, Technische Universität Berlin, Berlin, German
+[^4]: Modeling of Cognitive Processes, Technische Universität Berlin, Berlin, Germany
+[^5]: Institute of Animal Welfare, Animal Behavior, and Laboratory Animal Science, Department of Veterinary Medicine, Freie Universität Berlin, Berlin, Germany
 
 The deposit contains 3D printable STL files for the Mouse Lock Boxes, which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
 
