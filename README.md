@@ -28,5 +28,5 @@ In the construction manual *("Instruction_Manual_Lock_Boxes.pdf")*, the STL file
 
 If there any questions, please contact Katharina Hohlbaum: katharina.hohlbaum@bfr.bund.de
 
-Published under CC BY license (Creative Commons Attribution 4.0 International License).
+**_Published under CC BY license (Creative Commons Attribution 4.0 International License)._**
 
