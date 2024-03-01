@@ -7,9 +7,9 @@
 [^4]: Modeling of Cognitive Processes, Technische Universität Berlin, Berlin, Germany
 [^5]: Institute of Animal Welfare, Animal Behavior, and Laboratory Animal Science, Department of Veterinary Medicine, Freie Universität Berlin, Berlin, Germany
 
-The deposit contains 3D printable STL files for the Lock Boxes (LB), which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
+The deposit contains 3D printable STL files for the lockboxes (LB), which were used in the project “Mouse Lock Box” funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2002/1 “Science of Intelligence” – project number 390523135: https://www.scienceofintelligence.de/research/researchprojects/project_03/
 
-**Background**: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called LB, for mice and investigated their problem-solving strategies. Besides this, the impact of the lock box enrichment on the affective state of the mice was investigated.
+**Background**: Against the background of studies demonstrating sequential problem solving in cockatoos, we developed complex mechanical puzzles, so-called LB, for mice and investigated their problem-solving strategies. Besides this, the impact of the lockbox enrichment on the affective state of the mice was investigated.
 
 **LB sets**: Two LB sets were designed, each consisting of four single mechanism LBs(1-step) and a combined mechanism LBs (4-step). For the latter, the fours single mechanisms block each other and have to be removed in the correct order to open the box. The LB can be baited with a food reward to motivate the animals to open them.  
 In the folder titled *"LB_solutions"*, there are GIFs of each single and combined mechanism LB, which demonstrate how the LBs are supposed to be opened.  
